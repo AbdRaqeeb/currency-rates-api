@@ -17,6 +17,8 @@ The application must integrate with the [Exchange Rate API](https://api.exchange
 }
 ```
 
+## Hosted API Docs can be viewd [here](https://currency-rates-test.herokuapp.com)
+
 ### How to use
 - Create a .env file in root directory and set NODE_ENV=development and set PORT
 
